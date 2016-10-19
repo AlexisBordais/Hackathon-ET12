@@ -4,7 +4,7 @@
         "Adresse": "18 Rue de la Porte Dijeaux, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8410105,-0.5757239,3a,75y,198.04h,100.43t/data=!3m5!1e1!3m3!1s3siTHoLVy2GWhsstJJUCkw!2e0!5s2011-01",
         "Note": "",
-        "Type": "",
+        "Type": "Romantique",
         "Latitude": "44.8409914",
         "Longitude": "-0.5757740999999896"
     },
@@ -14,7 +14,7 @@
         "Adresse": "10 Rue de la Porte Dijeaux, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/place/10+Rue+de+la+Porte+Dijeaux,+33000+Bordeaux/@44.841071,-0.5750498,3a,90y,181.3h,107.73t/data=!3m4!1e1!3m2!1sYp9KJ_Gxf4OKIz5fVmJTvQ!2e0!4m2!3m1!1s0xd5527dadc66c0c1:0x8d2d58d3d98689e5!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Romantique",
         "Latitude": "44.840687",
         "Longitude": "-0.5750157999999601"
     },
@@ -24,7 +24,7 @@
         "Adresse": "impasse de la Merci, 33000 Bordeaux",
         "Illustration": "",
         "Note": "",
-        "Type": "",
+        "Type": "Romantique",
         "Latitude": "44.8391543",
         "Longitude": "-0.5738985000000412"
     },
@@ -34,7 +34,7 @@
         "Adresse": "impasse de la Fontaine Bouquière, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/place/52+Cours+Victor+Hugo,+33000+Bordeaux/@44.8355719,-0.5687581,3a,90y,2.23h,92.26t/data=!3m4!1e1!3m2!1seTxwoocvw9bAO0qtw-iYNA!2e0!4m2!3m1!1s0xd5527ceabfb3bf3:0xec46119033005cc",
         "Note": "",
-        "Type": "",
+        "Type": "Romantique",
         "Latitude": "44.8358619",
         "Longitude": "-0.5687652999999955"
     },
@@ -44,7 +44,7 @@
         "Adresse": "5 impasse Rue Neuve, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8368893,-0.5694924,3a,90y,268.01h,90.91t/data=!3m4!1e1!3m2!1s57faaupuGQYS9PeRTeaUhg!2e0",
         "Note": "",
-        "Type": "",
+        "Type": "Romantique",
         "Latitude": "44.8369529",
         "Longitude": "-0.57021450000002"
     },
@@ -54,7 +54,7 @@
         "Adresse": "2 Rue Pilet, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8353125,-0.5685216,3a,75y,42.47h,113.7t/data=!3m4!1e1!3m2!1soASHmMlny6lw-Hr_y1Io7A!2e0",
         "Note": "",
-        "Type": "",
+        "Type": "Romantique",
         "Latitude": "44.8354047",
         "Longitude": "-0.568469499999992"
     },
@@ -64,7 +64,7 @@
         "Adresse": "67 Cours d'Alsace-et-Lorraine, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8376676,-0.572198,3a,50.1y,348.03h,93.19t/data=!3m5!1e1!3m3!1sUDcTe_W000xNey0CdZX45A!2e0!5s2011-06",
         "Note": "",
-        "Type": "",
+        "Type": "Romantique",
         "Latitude": "44.8377259",
         "Longitude": "-0.5722018999999818"
     },
@@ -74,7 +74,7 @@
         "Adresse": "19 Rue des Caperans, 33000 Bordeaux",
         "Illustration": "",
         "Note": "",
-        "Type": "",
+        "Type": "Romantique",
         "Latitude": "44.8406437",
         "Longitude": "-0.5715003000000252"
     },
@@ -84,7 +84,7 @@
         "Adresse": "78 Rue du Commandant Arnould, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8333646,-0.5769631,3a,15y,251.83h,117.74t/data=!3m5!1e1!3m3!1sHi6_S48q-69LutbfP07z2g!2e0!5s2014-04",
         "Note": "",
-        "Type": "",
+        "Type": "Gastronomique",
         "Latitude": "44.8334906",
         "Longitude": "-0.5769331999999849"
     },
@@ -94,7 +94,7 @@
         "Adresse": "4 place Longchamps, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8501275,-0.5818533,3a,75y,331.98h,90.75t/data=!3m4!1e1!3m2!1sNnM9EKHFYfcFdmm6LJUqXg!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Gastronomique",
         "Latitude": "44.85086039999999",
         "Longitude": "-0.5822531000000026"
     },
@@ -104,7 +104,7 @@
         "Adresse": "47 rue Porte-Dijeaux",
         "Illustration": "https://www.google.fr/maps/@44.8409218,-0.576764,3a,54y,335.26h,86.4t/data=!3m5!1e1!3m3!1sKAqt6GhcpG5IH4qWW-_frQ!2e0!5s2013-08",
         "Note": "",
-        "Type": "",
+        "Type": "Gastronomique",
         "Latitude": "44.8410979",
         "Longitude": "-0.5768262999999934"
     },
@@ -114,7 +114,7 @@
         "Adresse": "50 Allées de Tourny, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/place/50+All%C3%A9e+de+Tourny,+33000+Bordeaux/@44.8444665,-0.5770419,3a,83.4y,249.28h,106.57t/data=!3m4!1e1!3m2!1sLfv9WY1TF1XLk2PHhLeJbA!2e0!4m2!3m1!1s0xd5527dbfd37d4b1:0xda85de3c4e8f32af!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Gastronomique",
         "Latitude": "44.8443434",
         "Longitude": "-0.5772395999999844"
     },
@@ -124,7 +124,7 @@
         "Adresse": "12 Rue de la Devise, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8398868,-0.5712134,3a,90y,154.96h,100.1t/data=!3m4!1e1!3m2!1sjU-AwAIwXzBSbCBNZvjCmA!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Gastronomique",
         "Latitude": "44.83986830000001",
         "Longitude": "-0.5711926000000176"
     },
@@ -134,7 +134,7 @@
         "Adresse": "Place de la Bourse, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/place/12+Rue+de+la+Devise,+33000+Bordeaux/@44.841449,-0.56961,3a,55.9y,320.7h,104.24t/data=!3m5!1e1!3m3!1sul6dWFZ8mZ8AAAQfCVdSVg!2e0!3e11!4m2!3m1!1s0xd5527d02845a5c5:0x1ed66ed8e5d22447",
         "Note": "",
-        "Type": "",
+        "Type": "Gastronomique",
         "Latitude": "44.8414955",
         "Longitude": "-0.5704670000000078"
     },
@@ -144,7 +144,7 @@
         "Adresse": "7 Rue des Faussets, 33000 Bordeaux",
         "Illustration": "",
         "Note": "",
-        "Type": "",
+        "Type": "Gastronomique",
         "Latitude": "44.8405977",
         "Longitude": "-0.5704815999999937"
     },
@@ -154,7 +154,7 @@
         "Adresse": "60 Rue Saint-Rémi, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.841195,-0.5735984,3a,75y,195.03h,92.09t/data=!3m4!1e1!3m2!1sPwT3KchpC3k_KFQfQIYopA!2e0",
         "Note": "",
-        "Type": "",
+        "Type": "Gastronomique",
         "Latitude": "44.84108459999999",
         "Longitude": "-0.5736762999999883"
     },
@@ -164,7 +164,7 @@
         "Adresse": "5, Place Camille Julian, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8390254,-0.5726526,3a,75y,38.54h,92.61t/data=!3m4!1e1!3m2!1sj5IVk42ARXyAbBdutU8qUw!2e0",
         "Note": "",
-        "Type": "",
+        "Type": "Culturel",
         "Latitude": "44.839089",
         "Longitude": "-0.5723729999999705"
     },
@@ -174,7 +174,7 @@
         "Adresse": "70 Cours d'Alsace-et-Lorraine, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8377198,-0.5715625,3a,75y,165.23h,90.26t/data=!3m5!1e1!3m3!1sYsMY9gurUbncBu8SuKdY0w!2e0!5s2010-09!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Culturel",
         "Latitude": "44.8376686",
         "Longitude": "-0.5715754000000288"
     },
@@ -184,7 +184,7 @@
         "Adresse": "46 Rue Saint James, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8352314,-0.5713512,3a,64.8y,8.14h,116.92t/data=!3m4!1e1!3m2!1s0w0e5dmlIsFn84RJzuU7Pg!2e0",
         "Note": "",
-        "Type": "",
+        "Type": "Culturel",
         "Latitude": "44.8350367",
         "Longitude": "-0.5713212000000567"
     },
@@ -194,7 +194,7 @@
         "Adresse": "18 Rue du Cloître, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8334664,-0.5681145,3a,75y,55.88h,89.1t/data=!3m4!1e1!3m2!1smBaLX-cC3cTZNp4LTl6w3A!2e0",
         "Note": "",
-        "Type": "",
+        "Type": "Culturel",
         "Latitude": "44.8333941",
         "Longitude": "-0.5679876000000377"
     },
@@ -204,7 +204,7 @@
         "Adresse": "17 Rue des Faures, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8346795,-0.5652119,3a,48.9y,180.93h,140.85t/data=!3m4!1e1!3m2!1sskTtX7uNTeuWHfuEGG8ehg!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Culturel",
         "Latitude": "44.8347825",
         "Longitude": "-0.56524730000001"
     },
@@ -214,7 +214,7 @@
         "Adresse": "132 Cours Victor Hugo, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8349296,-0.5727948,3a,50.6y,175.48h,113.47t/data=!3m4!1e1!3m2!1s_hXNCdEL3mxTbxAZO45n6A!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Culturel",
         "Latitude": "44.8346945",
         "Longitude": "-0.5728033000000323"
     },
@@ -224,7 +224,7 @@
         "Adresse": "22 Place de la Victoire, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8307863,-0.5734479,3a,75y,261.07h,80.95t/data=!3m4!1e1!3m2!1sv8j17GprDNENe2Drr5diQg!2e0",
         "Note": "",
-        "Type": "",
+        "Type": "Culturel",
         "Latitude": "44.8307122",
         "Longitude": "-0.5734592999999677"
     },
@@ -234,7 +234,7 @@
         "Adresse": "30 Rue du Hamel, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8316037,-0.5655286,3a,86.5y,165.78h,96.39t/data=!3m4!1e1!3m2!1sH6ZGXb0h3tazXSgQBYoKBg!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Culturel",
         "Latitude": "44.83120359999999",
         "Longitude": "-0.5655971999999565"
     },
@@ -244,7 +244,7 @@
         "Adresse": "49 Rue Sauteyron, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8305358,-0.5741929,3a,90y,177.12h,82.19t/data=!3m4!1e1!3m2!1sQDe7104uPQXkT8h880FoAg!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Spirituel",
         "Latitude": "44.8305379",
         "Longitude": "-0.5740158999999494"
     },
@@ -254,7 +254,7 @@
         "Adresse": "2 Rue de l'Hôtel de ville, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/place/2+Rue+de+l'H%C3%B4tel+de+ville,+33000+Bordeaux/@44.8384129,-0.5789844,3a,63.7y,114.61h,94.36t/data=!3m4!1e1!3m2!1s8uQGSRRc9ha9bvbAmP8ZCQ!2e0!4m2!3m1!1s0xd5527c36b166aad:0xc136556f863ff522!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Spirituel",
         "Latitude": "44.8383641",
         "Longitude": "-0.5789078000000245"
     },
@@ -264,7 +264,7 @@
         "Adresse": "48 Rue Vital Carles, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.838559,-0.577843,3a,90y,47.14h,100.6t/data=!3m4!1e1!3m2!1s4088_7prraFJbX-a-JYeow!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Spirituel",
         "Latitude": "44.83868229999999",
         "Longitude": "-0.5778599999999869"
     },
@@ -274,7 +274,7 @@
         "Adresse": "29 Rue Vital Carles, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8392502,-0.5780061,3a,90y,259.88h,93.65t/data=!3m4!1e1!3m2!1sdahLj9wUPzDayhtmvt2PSQ!2e0",
         "Note": "",
-        "Type": "",
+        "Type": "Spirituel",
         "Latitude": "44.8390378",
         "Longitude": "-0.5786474999999882"
     },
@@ -284,7 +284,7 @@
         "Adresse": "4 Rue Paul Painlevé, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8416363,-0.5757361,3a,75y,217.25h,116.86t/data=!3m4!1e1!3m2!1sBLoZwET_dAXPR52eykZP7A!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Spirituel",
         "Latitude": "44.8415269",
         "Longitude": "-0.57580889999997"
     },
@@ -294,7 +294,7 @@
         "Adresse": "10 Allées de Tourny, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8432734,-0.5753358,3a,51.6y,220.89h,114.25t/data=!3m4!1e1!3m2!1smAdN2Of8PwJs1jGH57yD8g!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Spirituel",
         "Latitude": "44.8428453",
         "Longitude": "-0.5754603000000316"
     },
@@ -304,7 +304,7 @@
         "Adresse": "23 Cours du Châpeau-Rouge, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8424311,-0.5727173,3a,90y,332.72h,117.66t/data=!3m4!1e1!3m2!1si5slsIOcURdTF33dGANJ5w!2e0!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Spirituel",
         "Latitude": "44.84246770000001",
         "Longitude": "-0.572674300000017"
     },
@@ -314,7 +314,7 @@
         "Adresse": "15 Cours Georges Clemenceau, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8423554,-0.5796766,3a,75y,315.15h,103.9t/data=!3m5!1e1!3m3!1sh3KvZ3RHIuhbyJgk9Rhs2w!2e0!5s2014-07!6m1!1e1",
         "Note": "",
-        "Type": "",
+        "Type": "Spirituel",
         "Latitude": "44.8424518",
         "Longitude": "-0.5800741000000471"
     },
