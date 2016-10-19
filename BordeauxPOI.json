@@ -1,0 +1,561 @@
+[{
+        "Nom": "Les rois de la cacahutète",
+        "Description": "xxxxxxxxxxxxxx xxxxxxxxxxxxxx",
+        "Adresse": "18 Rue de la Porte Dijeaux, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8410105,-0.5757239,3a,75y,198.04h,100.43t/data=!3m5!1e1!3m3!1s3siTHoLVy2GWhsstJJUCkw!2e0!5s2011-01",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8409914",
+        "Longitude": "-0.5757740999999896"
+    },
+    {
+        "Nom": "Ne l'appelez plus jamais La France",
+        "Description": "xxxxxxxxxxxxxx xxxxxxxxxxxxxx",
+        "Adresse": "10 Rue de la Porte Dijeaux, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/place/10+Rue+de+la+Porte+Dijeaux,+33000+Bordeaux/@44.841071,-0.5750498,3a,90y,181.3h,107.73t/data=!3m4!1e1!3m2!1sYp9KJ_Gxf4OKIz5fVmJTvQ!2e0!4m2!3m1!1s0xd5527dadc66c0c1:0x8d2d58d3d98689e5!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.840687",
+        "Longitude": "-0.5750157999999601"
+    },
+    {
+        "Nom": "Le cimetière de la Merci",
+        "Description": "Au fond de cette impasse qui vous coupera de l'agitation de la ville, le vestige de l'entrée du cimetière Sainte Catherine. Une croix de pierre en indique l'ancienne porte. Nous sommes juste derrière la Fnac / Go Sport / H&M construits sur l'emplacement de la chapelle Sainte Catherine du XIème siècle.",
+        "Adresse": "impasse de la Merci, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8391543",
+        "Longitude": "-0.5738985000000412"
+    },
+    {
+        "Nom": "Vestige du rempart médiéval",
+        "Description": "xxxxxxxxxxxxxx xxxxxxxxxxxxxx",
+        "Adresse": "impasse de la Fontaine Bouquière, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/place/52+Cours+Victor+Hugo,+33000+Bordeaux/@44.8355719,-0.5687581,3a,90y,2.23h,92.26t/data=!3m4!1e1!3m2!1seTxwoocvw9bAO0qtw-iYNA!2e0!4m2!3m1!1s0xd5527ceabfb3bf3:0xec46119033005cc",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8358619",
+        "Longitude": "-0.5687652999999955"
+    },
+    {
+        "Nom": "La vraie plus vieille maison de Bordeaux",
+        "Description": "Contrairement à sa proche voisine la fausse fausse plus vieille maison de Bordeaux -qui reconnaissons le à effectivement l'air plus vieille-, ce batisse moyen ageuse aurait été construite entre 1200 et 1250 à Bordeaux.",
+        "Adresse": "5 impasse Rue Neuve, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8368893,-0.5694924,3a,90y,268.01h,90.91t/data=!3m4!1e1!3m2!1s57faaupuGQYS9PeRTeaUhg!2e0",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8369529",
+        "Longitude": "-0.57021450000002"
+    },
+    {
+        "Nom": "La fausse plus vieille maison de Bordeaux",
+        "Description": "Cette maison a longtemps nargué sa proche voisine en lui volant le titre de plus vieille maison de Bordeaux. Finallement construite au XVIème siècle tout de même, mais 300 ans après la vraie plus vieille maison de Bordeaux !",
+        "Adresse": "2 Rue Pilet, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8353125,-0.5685216,3a,75y,42.47h,113.7t/data=!3m4!1e1!3m2!1soASHmMlny6lw-Hr_y1Io7A!2e0",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8354047",
+        "Longitude": "-0.568469499999992"
+    },
+    {
+        "Nom": "Au Sanglier de Russie",
+        "Description": "xxxxxxxxxxxxxx xxxxxxxxxxxxxx",
+        "Adresse": "67 Cours d'Alsace-et-Lorraine, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8376676,-0.572198,3a,50.1y,348.03h,93.19t/data=!3m5!1e1!3m3!1sUDcTe_W000xNey0CdZX45A!2e0!5s2011-06",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8377259",
+        "Longitude": "-0.5722018999999818"
+    },
+    {
+        "Nom": "Façade au soleil",
+        "Description": "Rue calme et étroite entre les places du Parlement et Saint Pierre, la rue des Caperans voit aussi peu de passants que de soleil. L'architecte de l'immeuble du numéro 19 eut la lumineuse idée de ne pas positionner les fenêtres non pas parallèle à la façade, mais en biais pour capter un peu plus de lumière. Etonnant.",
+        "Adresse": "19 Rue des Caperans, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8406437",
+        "Longitude": "-0.5715003000000252"
+    },
+    {
+        "Nom": "Le couple de Yetis de Sainte Eulalie",
+        "Description": "En piquant du 78 rue du Commandant Arnould droit sur l'église Sainte Eulalie, puis en levant un poil le nez, vous tomberez nez à nez avec 2 sculptures d'un homme et d'une femme... yetis. Au moyen âge, l'\"homme sauvage\" est souvent représenté. Etre mi humain mi animal, entre le monde des esprits et celui des vivants, il représente le mal et la bestialité. Dans d'autres culture on l'appelle Yéti, Squeth...., ....",
+        "Adresse": "78 Rue du Commandant Arnould, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8333646,-0.5769631,3a,15y,251.83h,117.74t/data=!3m5!1e1!3m3!1sHi6_S48q-69LutbfP07z2g!2e0!5s2014-04",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8334906",
+        "Longitude": "-0.5769331999999849"
+    },
+    {
+        "Nom": "L'Institut Hydrohérapique de Longchamps",
+        "Description": "Le Lycée Montesquieu forme la jeunesse bordelaise depuis 1901. Mais de 1860 à 1901, ce lieu fut un des tout premier institut d'hydrothérapie ouvert en France. Son équipement avait de quoi vous mettre l'eau à la bouche : douches en pluie, en cercle, en cloche, écossaise, ascendante, vaginale, rectale, périnéale, d'eau minérale, étuve à air chaud, à vapeur humide, bain à vapeurs souffrées, iodées, arsenicales, térébenthinées, résineuses,d'air comprimé, électriques !",
+        "Adresse": "4 place Longchamps, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8501275,-0.5818533,3a,75y,331.98h,90.75t/data=!3m4!1e1!3m2!1sNnM9EKHFYfcFdmm6LJUqXg!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.85086039999999",
+        "Longitude": "-0.5822531000000026"
+    },
+    {
+        "Nom": "L'atelier de Toulouse-Lautrec",
+        "Description": "En entrant dans ce magasin Morgan, souviens toi que ce lieu fut en 1901 l'atelier du peintre Toulouse-Lautrec.",
+        "Adresse": "47 rue Porte-Dijeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8409218,-0.576764,3a,54y,335.26h,86.4t/data=!3m5!1e1!3m3!1sKAqt6GhcpG5IH4qWW-_frQ!2e0!5s2013-08",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8410979",
+        "Longitude": "-0.5768262999999934"
+    },
+    {
+        "Nom": "Le plus vieux magasin de photo de France",
+        "Description": "Henri Panajou était portraitiste dans les année 60 (1860...). Ses deux fils ouvrirent le premier magasin de photo de France sur les allées de Tourny en 1899. Depuis, la maison Panajou reste la référence des amateurs.",
+        "Adresse": "50 Allées de Tourny, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/place/50+All%C3%A9e+de+Tourny,+33000+Bordeaux/@44.8444665,-0.5770419,3a,83.4y,249.28h,106.57t/data=!3m4!1e1!3m2!1sLfv9WY1TF1XLk2PHhLeJbA!2e0!4m2!3m1!1s0xd5527dbfd37d4b1:0xda85de3c4e8f32af!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8443434",
+        "Longitude": "-0.5772395999999844"
+    },
+    {
+        "Nom": "Chez l'avocat de Louis XVI",
+        "Description": "L'hôtel de Sèze est un hôtel cossu des Allées de Tourny à quelques pas de là. Mais Nous sommes ici au vrai hôtel de Sèze, demeure de Romain de Sèze, avocat à Bordeaux, qui, à 44 ans, fut appelé à Paris pour défendre Louis XVI lors de son procès. Il lancera à la tribune \"Citoyens ! Je cherche parmi vous des juges et je n'y vois que des accusateurs.\"",
+        "Adresse": "12 Rue de la Devise, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8398868,-0.5712134,3a,90y,154.96h,100.1t/data=!3m4!1e1!3m2!1sjU-AwAIwXzBSbCBNZvjCmA!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.83986830000001",
+        "Longitude": "-0.5711926000000176"
+    },
+    {
+        "Nom": "Trois nues connues",
+        "Description": "Les 3 Grâces étaient les filles de Zeus. Mais son sculpeur bordelais, Ludovico Visconti, s'inspira, dit-on, des visages des 3 grandes de l'époque, l'impératrice Eugénie, la reine Victoria et la reine Isabelle II d'Espagne. Le prètre de l'église Saint Pierre bénissant la fontaine lâcha \"J'aurais préféré bénir des statues de saints plutôt que des seins de statues\".",
+        "Adresse": "Place de la Bourse, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/place/12+Rue+de+la+Devise,+33000+Bordeaux/@44.841449,-0.56961,3a,55.9y,320.7h,104.24t/data=!3m5!1e1!3m3!1sul6dWFZ8mZ8AAAQfCVdSVg!2e0!3e11!4m2!3m1!1s0xd5527d02845a5c5:0x1ed66ed8e5d22447",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8414955",
+        "Longitude": "-0.5704670000000078"
+    },
+    {
+        "Nom": "Pierre Molinier et la maison des aigles",
+        "Description": "Il vous faudra lever bien haut la tête pour admirer l'immense aigle veillant sous la toiture de cette demeure, \"la maison des aigles\". Un autre oiseau, de nuit, hanta cette demeure : l'artiste Pierre Molinier, photographe et érotomane, y vécu, créa et s'y suicida.",
+        "Adresse": "7 Rue des Faussets, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8405977",
+        "Longitude": "-0.5704815999999937"
+    },
+    {
+        "Nom": "Cyprien Gaulon inventeur des étiquettes de bouteilles de vin",
+        "Description": "Cyprien Gaulon, s'intalla comme imprimeur lithographe en 1818 rue Saint Rémi. C'est lui qui le premier eut l'idée d'imprimer des étiquettes -d'abord appelées vignettes- pour les bouteilles de vin. Collectionneurs de vignettes de tous ages, ayez une pensée pour lui !",
+        "Adresse": "60 Rue Saint-Rémi, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.841195,-0.5735984,3a,75y,195.03h,92.09t/data=!3m4!1e1!3m2!1sPwT3KchpC3k_KFQfQIYopA!2e0",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.84108459999999",
+        "Longitude": "-0.5736762999999883"
+    },
+    {
+        "Nom": "Ici fut inventé la clé ouvre boite de sardines !",
+        "Description": "On y connait ici un cinéma, l'Utopia. On y devinne facilement la fonction première du batiment, une église, construite au XVème siècle. Entre temps le batiment abrita l'école navale des mousses, une fabrique de conserves, un marchand de vélo puis un garage. L'entrepreneur fabriquant de conserve, Charles tessonneau, entra dans la postérité à la fin des années 60 (1860) en inventant sur ce site la clé à ouvre boite de sardine.",
+        "Adresse": "5, Place Camille Julian, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8390254,-0.5726526,3a,75y,38.54h,92.61t/data=!3m4!1e1!3m2!1sj5IVk42ARXyAbBdutU8qUw!2e0",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.839089",
+        "Longitude": "-0.5723729999999705"
+    },
+    {
+        "Nom": "Chez l'inventeur de l'enrobage du suppositoire",
+        "Description": "La famille Fosse, pharmaciens en cette place depuis 1729, s'illustra en inventant l'enrobage de supositoire (en beurre de cacao). Depuis la fin du 20ème siècle, les propriétaires en changés, inutile d'entrer demander une boite dédicacée.",
+        "Adresse": "70 Cours d'Alsace-et-Lorraine, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8377198,-0.5715625,3a,75y,165.23h,90.26t/data=!3m5!1e1!3m3!1sYsMY9gurUbncBu8SuKdY0w!2e0!5s2010-09!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8376686",
+        "Longitude": "-0.5715754000000288"
+    },
+    {
+        "Nom": "L'horloge astronomiquement précise",
+        "Description": "L'horloge de la Grosse Cloche est grosse et précise. Au dessus du cadran circulaire, un cadrant en demi cercle indique les minutes à ajouter ou à retrancher de la journée en cour. 24h est une moyenne annuelle et chaque jour peut être de 24 + ou - 15 minutes selon la période de l'année. Maintenant vous serz à l'heure.",
+        "Adresse": "46 Rue Saint James, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8352314,-0.5713512,3a,64.8y,8.14h,116.92t/data=!3m4!1e1!3m2!1s0w0e5dmlIsFn84RJzuU7Pg!2e0",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8350367",
+        "Longitude": "-0.5713212000000567"
+    },
+    {
+        "Nom": "Message secret jamais décrypté",
+        "Description": "Cette belle demeure du XVIIIème siècle à l'inspiration architecturale éclectique, cache un secret jamais décrypé ! Derrière la colonne encadrant l'entrée, une plaque de pierre est gravée de lettre composant aucun mot connu en hébreu. Jusqu'ici personne n'a su décrypter l'énigme. Si trésor il y a, il vous attend !!",
+        "Adresse": "18 Rue du Cloître, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8334664,-0.5681145,3a,75y,55.88h,89.1t/data=!3m4!1e1!3m2!1smBaLX-cC3cTZNp4LTl6w3A!2e0",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8333941",
+        "Longitude": "-0.5679876000000377"
+    },
+    {
+        "Nom": "Henri III est caché par là",
+        "Description": "Au milieu du XVIème siècle, Henri III accorda à ordeaux de nombreux privilèges. Est ce pour l'en remercier que face au 17 de la rue des Faures, on peut voir sur les hauteurs de l'église Saint Michel, un balcon laissant apparaitre dans ses sculptures \"HENRY DE VALOIS RAY\". Levez la tête et cherchez bien...",
+        "Adresse": "17 Rue des Faures, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8346795,-0.5652119,3a,48.9y,180.93h,140.85t/data=!3m4!1e1!3m2!1sskTtX7uNTeuWHfuEGG8ehg!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8347825",
+        "Longitude": "-0.56524730000001"
+    },
+    {
+        "Nom": "La maison Dorée",
+        "Description": "Au commencement il y avait deux maisons distinctes. Les Gradis, vieille famille de négociants en rhum dans l'une. Les Escalère qui ouvrirent en 1816 un commerce de meuble dans l'autre. Moïse Gradis mourrut en Martinique en 1825. Il souhaitait êre enterré à Bordeax. On le ramena de l'ile dans un tonneau de rhum ! Le commerce des Escalère proposperait. Tant et bien qu'ils rachetèrent l'immeuble Gradis, refirent la façade de l'ensemble et ouvrirent en 1860 La Maison Dorée, le magasin de mobilier et décoration de la bourgeoisie bordelaise jusqu'en 1910. La façade concerve se souvenir Dorée.",
+        "Adresse": "132 Cours Victor Hugo, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8349296,-0.5727948,3a,50.6y,175.48h,113.47t/data=!3m4!1e1!3m2!1s_hXNCdEL3mxTbxAZO45n6A!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8346945",
+        "Longitude": "-0.5728033000000323"
+    },
+    {
+        "Nom": "Chez Georgette Plana",
+        "Description": "Le Plana est un lieu mytique à Bordeaux. Avant de devenir un restaurant agréable, c'était le bar des soirées étudiantes durant plusieurs générations. Le plus gros débit de bière de France. Et avant, la famille Plana avait créé ce bar/restaurant en 1927. Il vit grandir Georgette Plana, innoubliable (si si) interprète de Riquita ou de Viva España.",
+        "Adresse": "22 Place de la Victoire, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8307863,-0.5734479,3a,75y,261.07h,80.95t/data=!3m4!1e1!3m2!1sv8j17GprDNENe2Drr5diQg!2e0",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8307122",
+        "Longitude": "-0.5734592999999677"
+    },
+    {
+        "Nom": "Le rempart du XIVe siècle",
+        "Description": "",
+        "Adresse": "30 Rue du Hamel, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8316037,-0.5655286,3a,86.5y,165.78h,96.39t/data=!3m4!1e1!3m2!1sH6ZGXb0h3tazXSgQBYoKBg!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.83120359999999",
+        "Longitude": "-0.5655971999999565"
+    },
+    {
+        "Nom": "Le cimetière des Avignonnais",
+        "Description": "Havre de paix à quelques mètres de la Place de la Victoire, ce cimetière juif date de 1728. En grimpant sur le boitier téléphonique, vous pourrez passer le bout du nez pour admirer se lieu au temps suspendu.",
+        "Adresse": "49 Rue Sauteyron, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8305358,-0.5741929,3a,90y,177.12h,82.19t/data=!3m4!1e1!3m2!1sQDe7104uPQXkT8h880FoAg!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8305379",
+        "Longitude": "-0.5740158999999494"
+    },
+    {
+        "Nom": "La rue aux 4 noms",
+        "Description": "Les noms des rues changent dans le temps. La preuve en gravure sur l'angle de la rue : rue du département, rue de l'arbre chéri, rue du palais royal et rue de l'hotel de ville depuis 1837.",
+        "Adresse": "2 Rue de l'Hôtel de ville, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/place/2+Rue+de+l'H%C3%B4tel+de+ville,+33000+Bordeaux/@44.8384129,-0.5789844,3a,63.7y,114.61h,94.36t/data=!3m4!1e1!3m2!1s8uQGSRRc9ha9bvbAmP8ZCQ!2e0!4m2!3m1!1s0xd5527c36b166aad:0xc136556f863ff522!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8383641",
+        "Longitude": "-0.5789078000000245"
+    },
+    {
+        "Nom": "Les abeilles de la Caisse d'Epargne",
+        "Description": "Le batiment abritant le musée Jean Moulin fut contruit à l'origine en 1847, pour abriter la première Caisse d'épargne de France. Une sculpture de ruche et d'abeille fut ajoutée en 1907 sur la façade, symbolisant le travail et l'économie. Ce n'est qu'après 1945 que l'écureuil symbolisa cette banque.",
+        "Adresse": "48 Rue Vital Carles, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.838559,-0.577843,3a,90y,47.14h,100.6t/data=!3m4!1e1!3m2!1s4088_7prraFJbX-a-JYeow!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.83868229999999",
+        "Longitude": "-0.5778599999999869"
+    },
+    {
+        "Nom": "Du 14 au 18 juin 1940",
+        "Description": "Le 14 juin 1940, le gouvernement français s'installe à Bordeaux. Le président Lebrun s'installe ici. De Gaulle, sous secrétaire d'Etat à la défense depuis le 5 juin, croise le soir même le maréchal Pétain au restaurant. 2 jours plus tard, le 16, le chef du gouvernement remet sa démission au président Lebrun. Le 17 le maréchal Pétain annonce qu'il accepte de prendre les rênes de la France. Ce même jour De Gaulle quitte la France pour Londres depuis Mérignac. Le 18 il lancera son appel.",
+        "Adresse": "29 Rue Vital Carles, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8392502,-0.5780061,3a,90y,259.88h,93.65t/data=!3m4!1e1!3m2!1sdahLj9wUPzDayhtmvt2PSQ!2e0",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8390378",
+        "Longitude": "-0.5786474999999882"
+    },
+    {
+        "Nom": "Nouvelle tour sur l'ancienne muraille romaine",
+        "Description": "L'hôtel particuliers des Intendants fut construits sur l'alignement de la muraille gallo romaine du IIIème siècle et d'une de ses tours de défence. L'immeuble a donc conservé la mémoire architecturale de cette tour et ses murs, l'alignement des remparts.",
+        "Adresse": "4 Rue Paul Painlevé, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8416363,-0.5757361,3a,75y,217.25h,116.86t/data=!3m4!1e1!3m2!1sBLoZwET_dAXPR52eykZP7A!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8415269",
+        "Longitude": "-0.57580889999997"
+    },
+    {
+        "Nom": "La première séance de cinématographe à Bordeaux",
+        "Description": "Après Paris, Lyon et Nice, Bordeaux accueillit les frères Lumières pour assister à la toute première démonstration de leur cinématographe. La première scéance eut lieu ici, à l'hôtel des sociétés savantes de l'époque. L'ancètre de Sud Ouest rapporta : \" C'est là une des manifestations de la science dans ce qu'elle a de plus curieux, de plus aimable et de plus intéressant \". Et les Lumières furent.",
+        "Adresse": "10 Allées de Tourny, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8432734,-0.5753358,3a,51.6y,220.89h,114.25t/data=!3m4!1e1!3m2!1smAdN2Of8PwJs1jGH57yD8g!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8428453",
+        "Longitude": "-0.5754603000000316"
+    },
+    {
+        "Nom": "Le balcon de l'hôtel de Saige",
+        "Description": "Cette demeure fut construite par François-Armand de Saige, banquier, armateur, maire de Bordeaux pendant la révolution et guillotiné. Elle hébergea la préfecture sous Napoléon. Sous son exemplaire balcon, les bordelais vinrent fêter l'armistice de 1918 et acclamer le Général de Gaulle, le 17 septembre 1944.",
+        "Adresse": "23 Cours du Châpeau-Rouge, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8424311,-0.5727173,3a,90y,332.72h,117.66t/data=!3m4!1e1!3m2!1si5slsIOcURdTF33dGANJ5w!2e0!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.84246770000001",
+        "Longitude": "-0.572674300000017"
+    },
+    {
+        "Nom": "Chez le compte de Cagliostro",
+        "Description": "recherche complémentaire sur cagliostro",
+        "Adresse": "15 Cours Georges Clemenceau, 33000 Bordeaux",
+        "Illustration": "https://www.google.fr/maps/@44.8423554,-0.5796766,3a,75y,315.15h,103.9t/data=!3m5!1e1!3m3!1sh3KvZ3RHIuhbyJgk9Rhs2w!2e0!5s2014-07!6m1!1e1",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8424518",
+        "Longitude": "-0.5800741000000471"
+    },
+    {
+        "Nom": "Plaque de rue",
+        "Description": 111,
+        "Adresse": "",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Dog's bar",
+        "Description": "Depuis 1950, la tournée est offerte aux chiens de passage au Dog's Bar, généreusement installé au pied de son magasin par le propriétaire de Bordeaux Stylo. Une halte pour tout amateur de plumes et de poils canins.",
+        "Adresse": "3 cours de l'Intendance, 33000 Bordeaux",
+        "Illustration": "http://static.panoramio.com/photos/large/10972959.jpg",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Jardin verical du square Vinet",
+        "Description": "Cet immense et agréable jardin vertical n'est il pas le lieu idéal pour venir savourer un des meilleurs kebab de la ville, le Coluche, acheté dans la voisine rue du Pas Saint George. C'est l'histoire d'un mec, plantes vertes, salade, tomates, oignons.",
+        "Adresse": "2 Rue Vinet, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "44.8396027",
+        "Longitude": "-0.5712283999999954"
+    },
+    {
+        "Nom": "Hotel Fenwick",
+        "Description": "Joseph Fenwick, négociant fortuné à Bordeaux, né aux Amériques, fit construire ce magnifique batiment. En 1971, Georges Washington, tout premier président des Etats Unis, le nomma consul. Son hotel particulier devint donc le premier consulat américain en France.",
+        "Adresse": "4 cours Xavier Arnozan, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "La statue de la Liberté",
+        "Description": "A la fin du 19ème siècle, la ville lança u concours pour offrir à la plac des Quinconce une fontaine. Le gagnant fut un certain Bartholdi. Mais son projet éait trop cher et fut abandonné. Quelques années plus tard, Bartholdi réalisa la statue de la Liberté offerte aux USA. Et bon joueur, il en offrit une réplique à Bordeaux. Enlevée en 1941 par l'occupant allemand -ach, mauvais zymbole- elle trône en résine depuis 2000.",
+        "Adresse": "place Picard, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Leonard de Vinci",
+        "Description": "Le 7 juin 1515, Léonard de Vinci, invité à Bordeaux, fit une démonstration de son aéroplane lancé du sommet d'une tour du chateau du Hâ. L'histoire ne dit pas si la Joconde était à bord.",
+        "Adresse": "xxx rue du Hâ, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Le bourreau de Bordeaux",
+        "Description": "La sculpture à l'angle de la rue Porte-Basse représente la dénommée porte Basse. Au milieu de cette rue se dressait la Tour du Pendard, le logis coquet du bourreau à Bordeaux au moyen age. Il n'était qu'à un jet de pierre de son lieu de travail, le pilori de la place du Grand-Marché, aujourd'hui la place Fernand-Lafargue. Aujourd'hui, la seule torture restante est de choisir dans quel restaurant asiatique de la place vous allez vous arréter.",
+        "Adresse": "128 cours d'Alsace-Lorraine, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Traduction latine",
+        "Description": "Située sur la face nord de la tour de la cathédrale Pey-Berland, une mystérieuse énigme s'offre à vous en latin : \"Toi, qui que tu sois, qui observes d'un oeil favorable la tour deux fois carrée commencée sous d'heureux auspices le second jour avant les nones d'octobre 1440, sache de façon sûre qu'elle a la même profondeur que celle où se trouve la source de la fontaine qui jaillit à proximité. Sache aussi que Pierre, archevêque de Bordeaux, a placé là-dessous lapremière pierre, ce dont le peuple se réjouit éternellement\". Père Fouras à vous de jouer.",
+        "Adresse": "Place Pey-Berland, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "L'histoire à couper le souffle du docteur Guillotin",
+        "Description": "Joseph-Ignace Guillotin naquit en 1738 à Saintes, étudia la théologie au collège des jésuites de Bordeaux et l'enseigna ici, au collège des Irlandais. En 1763 il abandonna tonsure et soutane pour devenir médecin. En 1789 il fut élu député du Tiers Etat.On lui doit la célébre rencontre de la salle du Jeu de Paume et la création de l'hémicycle du Palais Bourbon. Le 1er décembre 1789 il déclare à l'Assemblée nationale que \"la loi doit être égale pour tous les citoyens, sans aucune exception. Les délits du même genre seront punis du même genre de supplice\", souhaitant des exécutions plus égales et moins cruelles. Idée adoptée en 1791 et mise en pratique en 92 avec la Louisette, la machine à couper la tête inventée par le docteur Louis. Au grand damn du docteur Guillotin, la Louisette sera vite appellée la Guillotine.",
+        "Adresse": "3 bis rue du Hâ, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Les clowns, les comédiens et les sénateurs",
+        "Description": "Ici se dressa tout d'abord le Cirque Olympique, haut lieu du cirque bordelais au début du 19ème siècle, puis fut construit ce bel immeuble pour accueillir le théatre l'Appolo à la fin du siècle. 1400 spectateurs pouvaient acclamer les artistes. En 1914 le sénat de la Frace en exil à Bordeaux s'y installa.",
+        "Adresse": "52 bis rue Saint Sernin, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Vous etes ici",
+        "Description": "Au pied de cet immeuble se tient une borne en pierre indiquant \"origine du bornage\", le kilomètre 0 d'ou toute les distances étaient calculées pour Bordeaux. Et c'est dans cet immeuble qu'on entreposait la guillotine bordelaise. Surement pour ne pas faire trop de kilometres pour faire des raccourcis.",
+        "Adresse": "10 place Gambetta, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Bateaux fantômes",
+        "Description": "A ce niveau, sur la Garonne, à marée basse, on voit apparaitre les épaves de plusieurs navires. Le 25 août 1944, les troupes allemandes, en fuite, coulèrent 200 navires sur la Garonne et la Gironde. 70 rien qu'autour de Bordeaux.",
+        "Adresse": "48 quai de Queyries, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Rue dislexique",
+        "Description": "Au niveau des 17 et 20 de la rue Boulan, les coins de la rue en face à face accueille la plauqe du nom de la rue. Dessous apparaissent l'ancien nom de la rue gravé dans la pierre \"Rue de la Frugalité\". Du moins au 20. Car en face, au 17, est-ce l'effet du 20, mais le graveur à choisi d'inscrire \"rue de la Furgalité\"",
+        "Adresse": "17 rue boulan, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Plaquage en hauteur",
+        "Description": "La règle établie veut que le nom des rues soit affiché entre le rez de chaussée et le premier étage. Au niveau du 17 du cours de l'Intendence un plaqueur farceur à pousser son placage au niveau du milieu du deuxième étage. Fait rare.",
+        "Adresse": "17 cours de l'intendance, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Sculpture à domicile",
+        "Description": "Gaston Schnegg était sculpteur, assistant de Rodin. Lorsqu'il s'installa à Bordeaux, il réalisa les sculptures du grand magasin \"Les Dames de France\", aujourd'hui Les Galeries Lafayette. Quoi de mieux pour montrer son savoir faire, que de sculpter la façade de sa maison ? C'est ce qu'il fit à son domicile de la rue Albert Barraud.",
+        "Adresse": "9 rue Albert Barraud, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Ca plane pour moi, Léonard",
+        "Description": "Le 7 juin 1515, Bordeaux reçu la visite de Léonard de Vinci. Du haut d'une tour du fort du Hâ, il lança un planeur de sa conception qui vola jusqu'au niveau de l'actuel cours Victor Hugo.",
+        "Adresse": "61 rue du Hâ, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Champion du monde des barmans poids légers",
+        "Description": "Ici se trouvaile le bar d'André Routis. Après avoir servi des punchs en journée, il servait des uppercuts sur les rings. Le 28 septembre 1928, il devient chamion du monde de boxe poids légers en battant Tony Canzoneri au Madison Square Garden à New York.",
+        "Adresse": "33 rue du Loup, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Dialogue de sourd",
+        "Description": "Jacob Rodrigues-Pereire fut le traducteur du roi louis XV pour l'espagnol et le portugais. Il inventa la dactylologie, le langage des signes pour les sourds muets. L'Abbé de l'Epée fonda 4 écoles pour les sourdes muettes, dont celle de Bordeaux. Sur les murs de la façade de l'immeuble, ancien commissariat central de police, l'alphabet de la langue des signes est sculpté. Mais il manque deux lettres ! Surplombant l'entrée, la statue de l'abée est illustrée de deux lettres dans cette même langue, le A et le B.",
+        "Adresse": "87 rue de l'Abbé de l'épée, 33000 Bordeaux.",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Balcon collossal",
+        "Description": "On racconte que le colosse de pierre soutenant le balcon de l'hôtel Darche d'Estrade aurait parié qu'il soutiendrait le balcon sur ses épaule le temps qu'il soit fixé. Il en mourru ! On racconte aussi que le dénommé Jean-Louis Fargue, collosse local, travailla sur le chantier et monta notamment sur son dos l'ennorme pierre du balcon du deuxième étage. En hommage, l'architecte immortalisa le colosse.",
+        "Adresse": "48 rue saint François, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Un Wagner de scandale",
+        "Description": "En 1850, Wagner arriva à Bordeaux après avoir été chassé de Prusse, accusé de sympathie anarchique, et après un court passage en Suisse. Il s'installa à l'hôtel des 4 soeurs, chambre 22. Il entretint avec Jessie Laussot, une jeune admiratrice de 21 ans, une relation tant passionnée que brève. En effet monsieur Laussot, marie de madame, tomba rapidement sur un courrier enflemmé envoyé à sa femme. Il chargea la police de cueuillir le boulonnant Wagner au saut du lit et de l'expédier bien loin de la ville.",
+        "Adresse": "6 cours du 30 juillet, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Une vierge dans le vent",
+        "Description": "Qui remarque que la vierge dorée tronant au sommet de la tour Pey Berland vous indique le sens du vent. Et oui, la vierge est une girouette !",
+        "Adresse": "Place Pey Berland, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Ou l'on vu débouler Bill",
+        "Description": "C'est ici, à l'ancienne gare d'Orléans, que Buffalo Bill et sa troupe arrivèrent en train à Bordeaux avant de s'installer place des Quinconces. Nous sommes en 1905 et ce vieux Bill à 59 ans. Son spectacle, le Buffalo Bill's Wild West and Congress of Rough Riders of the World, se déplaçait avec plus de 800 personnes et 500 chevaux !",
+        "Adresse": "7 quai de Queyries, 33100 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Fontaines Wallace et gros mythe",
+        "Description": "En 1872, le riche philanthrope anglais, collectionneur d'art, Richard Wallace, offre 50 fontaines à la ville de Paris. L'année suivante, le (riche) banquier bordelais Daniel Osiris touvant l'idée pertinente, offre à Bordeaux 6 fontaines Wallace. 3 sont encore en place, place du général Sarrail, au Jardin Public et dans les jardins de la mairie. Celle du cours Xavier Arnozan a été offerte par un descendant de sir Wallace, habitant juste en face de la fontaine. Enfin, 4 autres rééditions ont été installées place Stalingrad, place Porto Riche, place Lemoine et place Mitchell. Bordeaux compte donc 8 fontaines Wallace.",
+        "Adresse": "adresses",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    },
+    {
+        "Nom": "Légendes et amphiyhéâtre",
+        "Description": "Deux citations latines gravées sur les marches de la place Galienne, illustrent les légendes courant sur le Palais Gallien. \"Sa femme Galiane fit bâtir le palais de Galiene\" extrait du Livre des Bouillons du Xeme siècle contant les coutumes de Bordeaux. Galiene fille de l'empereur Titus, marriée à Cenebrun, roi de Bordeaux et fis de l'empereur Vespasien, aurait fait construire ce Palais. Une autre légende l'attribue à Galienne, fille du roi de Tolède et femme de Charlemagne. C'est Elie Vinet qui au XVIeme siècle rétablit la véritée historique : \"Le Palais de Gallien, comme on l'appelait, ou de Galienne, au sujet duquel les gens ne connaissant pas l'histoire des temps anciens ont composé une légende extraordinaire... Le Palais parait plutôt avoir reçu son nom de [l'empereur romain] Gallien, son véritable fondateur\".",
+        "Adresse": "Place Gallienne, 33000 Bordeaux",
+        "Illustration": "",
+        "Note": "",
+        "Type": "",
+        "Latitude": "",
+        "Longitude": ""
+    }
+]
