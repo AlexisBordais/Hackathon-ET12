@@ -38,7 +38,7 @@
 
             }
 
-            for (i = 0; i < cities.length; i++) {
+            for (let i = 0; i < cities.length; i++) {
                 createMarker(cities[i]);
             }
 

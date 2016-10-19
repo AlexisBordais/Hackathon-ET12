@@ -5,6 +5,7 @@
     'app.views',
     'app.config',
     'app.services',
+    'app.common',
     'app.home',
     'app.list'
 ]))
