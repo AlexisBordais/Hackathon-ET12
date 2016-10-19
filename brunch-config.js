@@ -7,12 +7,17 @@ exports.config = {
     files: {
         javascripts: {
             joinTo: {
+                'js/vendor.min.js': [
+                    'bower_components/jquery/dist/jquery.js',
+                    'bower_components/bootstrap/dist/js/bootstrap.js'
+                ],
                 'js/app.min.js': /^src\/js/
             },
             order: {
                 before: [
                     'src/js/app.js',
                     'src/js/**/*.md.js',
+                    'src/js/components/**/*.js',
                     'src/js/components/**/*.js'
                 ]
             }
@@ -40,7 +45,7 @@ exports.config = {
     },
     plugins: {
         copycat: {
-            "js": ['node_modules/angular/angular.min.js', 'node_modules/angular-ui-router/release/angular-ui-router.min.js'],
+            "js": ['bower_components/jquery/dist/jquery.js','bower_components/bootstrap/dist/js/bootstrap.js', 'node_modules/angular/angular.min.js', 'node_modules/angular-ui-router/release/angular-ui-router.min.js'],
             "css": ["bower_components/bootstrap/dist/css/bootstrap.min.css",
                 "bower_components/bootstrap/dist/css/bootstrap.min.css.map"],
             verbose: true,
