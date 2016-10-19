@@ -2,64 +2,52 @@
     'use strict'
     app.component('list', {
         templateUrl: 'js/components/list/list.html',
-        controller: function($scope) {
+        controller: function($scope, $http) {
+            $http.get("BordeauxPOI.json")
+                .then(function(r) {
 
-            var mapOptions = {
-                zoom: 12,
-                center: new google.maps.LatLng(45, -0.5),
-                mapTypeId: google.maps.MapTypeId.TERRAIN
-            }
+                    $scope.data = r.data
 
-            $scope.map = new google.maps.Map(document.getElementById('map'), mapOptions);
+                    var mapOptions = {
+                        zoom: 15,
+                        center: new google.maps.LatLng(44.84, -0.58) //,
+                            //mapTypeId: google.maps.MapTypeId
+                    }
 
-            $scope.markers = [];
+                    $scope.map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
-            var infoWindow = new google.maps.InfoWindow();
+                    $scope.markers = [];
 
-            var imagePath = "http://m.schuepfen.ch/icons/helveticons/black/60/Pin-location.png";
+                    var imagePath = "http://m.schuepfen.ch/icons/helveticons/black/60/Pin-location.png";
 
-            var createMarker = function(info) {
+                    for (let i = 0; i < $scope.data.length; i++) {
+                        var data = $scope.data[i]
 
-                var marker = new google.maps.Marker({
-                    map: $scope.map,
-                    position: new google.maps.LatLng(info.lat, info.long),
+                        var marker = new google.maps.Marker({
+                            map: $scope.map,
+                            position: new google.maps.LatLng(data.Latitude, data.Longitude),
 
-                    icon: imagePath,
-                    title: info.city
-                });
-                marker.content = '<div class="infoWindowContent">' + info.desc + '</div>';
+                            icon: imagePath,
+                            title: data.Nom
+                        })
+                        marker.content = '<div class="infoWindowContent">' + data.Description + '</div>';
 
-                google.maps.event.addListener(marker, 'click', function() {
-                    infoWindow.setContent('<h2>' + marker.title + '</h2>' + marker.content);
-                    infoWindow.open($scope.map, marker);
-                });
+                        var infoWindow = new google.maps.InfoWindow();
 
-                $scope.markers.push(marker);
+                        google.maps.event.addListener(marker, 'click', function() {
+                            infoWindow.setContent('<h3>' + this.title + '</h3>' + this.content);
+                            infoWindow.open(this.map, this.marker);
+                        })
 
-            }
+                    }
+                    $scope.openInfoWindow = function(e, selectedMarker) {
+                        e.preventDefault();
+                        google.maps.event.trigger(selectedMarker, 'click');
+                    }
 
-            for (i = 0; i < cities.length; i++) {
-                createMarker(cities[i]);
-            }
 
-            $scope.openInfoWindow = function(e, selectedMarker) {
-                e.preventDefault();
-                google.maps.event.trigger(selectedMarker, 'click');
-            }
+
+                })
         }
     })
-    var cities = [
-{
-    city : 'Mérignac',
-    desc : '25 RUE MARCEL ISSARTIER - 33700 MERIGNAC',
-    lat : 44.84007510000001,
-    long : -0.7161892999999964
-},
-{
-    city : 'Paris',
-    desc : '460 VOIE DE LA COURTINE - 93160 NOISY LE GRAND',
-    lat : 48.8388763,
-    long : 2.5435062000000244
-},
-];
 })(angular.module('app.list'))
