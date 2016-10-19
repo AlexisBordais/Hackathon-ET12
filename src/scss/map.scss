@@ -1,5 +1,23 @@
-#map{
-  height: 60em;
-  width: 80%;
-  margin: auto;
+#map {
+    height: 50em;
+    width: 90%;
+    margin: auto;
+}
+
+#list {
+    margin-top: 50px;
+}
+
+.fixed-btn {
+    position: fixed;
+    top: 5em;
+    right: 2.5em;
+    color: black;
+    background-color: white;
+    border: 1px solid rgba(0,0,0,0.1) !important;
+
+    i {
+        font-size: 44px;
+        margin: 0 -5px 0 0;
+    }
 }
