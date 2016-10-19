@@ -8,5 +8,6 @@
     'app.navbar',
     'app.common',
     'app.home',
-    'app.list'
+    'app.list',
+    'app.tour'
 ]))
