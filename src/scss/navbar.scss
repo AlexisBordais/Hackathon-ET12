@@ -1,5 +1,9 @@
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
+.navbar-brand {
+  background-image: url(/img/logopetit.png);
+  width: 135px;
+}
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
@@ -21,6 +25,10 @@
 }
 .navbar-wrapper .navbar .container {
   width: auto;
+}
+.navbar {
+    background-color: #a94442;
+    border-color: #080808;
 }
 
 
