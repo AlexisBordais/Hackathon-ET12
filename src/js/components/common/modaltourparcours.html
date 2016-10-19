@@ -1,0 +1,29 @@
+<section id="modaltourparcours">
+    <header class="Modal__head">
+
+        <h2>Romantique</h2>
+    </header>
+
+    <div class="Modal__body" ng-repeat="dataromantique in data | filter: dataromantique: dataromantique.Type='Romantique'">
+        <div class="row">
+            <div class="col-xs-12">
+                <h1>{{dataromantique.Nom}}</h1>
+            </div>
+            <div class="col-xs-12">
+                <h3>{{dataromantique.Adresse}}</h3>
+            </div>
+                <div class="col-xs-12">
+                    <img src="{{dataromantique.Image}}" alt="{{dataromantique.Nom}}"/>
+                </div>
+                <div class="col-xs-10 pull-right">
+                    <h4>
+                        {{dataromantique.Description}}
+                    </h4>
+                </div>
+        </div>
+    </div>
+
+    <div class="Modal__foot">
+        <small>2016</small>
+    </div>
+</section>

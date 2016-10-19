@@ -4,7 +4,7 @@
         "Adresse": "18 Rue de la Porte Dijeaux, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8410105,-0.5757239,3a,75y,198.04h,100.43t/data=!3m5!1e1!3m3!1s3siTHoLVy2GWhsstJJUCkw!2e0!5s2011-01",
         "Note": "",
-        "Type": "Romantique",
+        "Type": "",
         "Latitude": "44.8409914",
         "Longitude": "-0.5757740999999896"
     },
@@ -14,7 +14,7 @@
         "Adresse": "10 Rue de la Porte Dijeaux, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/place/10+Rue+de+la+Porte+Dijeaux,+33000+Bordeaux/@44.841071,-0.5750498,3a,90y,181.3h,107.73t/data=!3m4!1e1!3m2!1sYp9KJ_Gxf4OKIz5fVmJTvQ!2e0!4m2!3m1!1s0xd5527dadc66c0c1:0x8d2d58d3d98689e5!6m1!1e1",
         "Note": "",
-        "Type": "Romantique",
+        "Type": "",
         "Latitude": "44.840687",
         "Longitude": "-0.5750157999999601"
     },
@@ -26,7 +26,8 @@
         "Note": "",
         "Type": "Romantique",
         "Latitude": "44.8391543",
-        "Longitude": "-0.5738985000000412"
+        "Longitude": "-0.5738985000000412",
+        "Image": "img/opera.jpg"
     },
     {
         "Nom": "Vestige du rempart médiéval",
@@ -34,7 +35,7 @@
         "Adresse": "impasse de la Fontaine Bouquière, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/place/52+Cours+Victor+Hugo,+33000+Bordeaux/@44.8355719,-0.5687581,3a,90y,2.23h,92.26t/data=!3m4!1e1!3m2!1seTxwoocvw9bAO0qtw-iYNA!2e0!4m2!3m1!1s0xd5527ceabfb3bf3:0xec46119033005cc",
         "Note": "",
-        "Type": "Romantique",
+        "Type": "",
         "Latitude": "44.8358619",
         "Longitude": "-0.5687652999999955"
     },
@@ -46,7 +47,8 @@
         "Note": "",
         "Type": "Romantique",
         "Latitude": "44.8369529",
-        "Longitude": "-0.57021450000002"
+        "Longitude": "-0.57021450000002",
+        "Image": "img/opera.jpg"
     },
     {
         "Nom": "La fausse plus vieille maison de Bordeaux",
@@ -56,7 +58,8 @@
         "Note": "",
         "Type": "Romantique",
         "Latitude": "44.8354047",
-        "Longitude": "-0.568469499999992"
+        "Longitude": "-0.568469499999992",
+        "Image": "img/opera.jpg"
     },
     {
         "Nom": "Au Sanglier de Russie",
@@ -64,7 +67,7 @@
         "Adresse": "67 Cours d'Alsace-et-Lorraine, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8376676,-0.572198,3a,50.1y,348.03h,93.19t/data=!3m5!1e1!3m3!1sUDcTe_W000xNey0CdZX45A!2e0!5s2011-06",
         "Note": "",
-        "Type": "Romantique",
+        "Type": "",
         "Latitude": "44.8377259",
         "Longitude": "-0.5722018999999818"
     },
@@ -76,7 +79,8 @@
         "Note": "",
         "Type": "Romantique",
         "Latitude": "44.8406437",
-        "Longitude": "-0.5715003000000252"
+        "Longitude": "-0.5715003000000252",
+        "Image": "img/opera.jpg"
     },
     {
         "Nom": "Le couple de Yetis de Sainte Eulalie",
@@ -84,9 +88,10 @@
         "Adresse": "78 Rue du Commandant Arnould, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8333646,-0.5769631,3a,15y,251.83h,117.74t/data=!3m5!1e1!3m3!1sHi6_S48q-69LutbfP07z2g!2e0!5s2014-04",
         "Note": "",
-        "Type": "Gastronomique",
+        "Type": "Romantique",
         "Latitude": "44.8334906",
-        "Longitude": "-0.5769331999999849"
+        "Longitude": "-0.5769331999999849",
+        "Image": "img/opera.jpg"
     },
     {
         "Nom": "L'Institut Hydrohérapique de Longchamps",
@@ -94,9 +99,10 @@
         "Adresse": "4 place Longchamps, 33000 Bordeaux",
         "Illustration": "https://www.google.fr/maps/@44.8501275,-0.5818533,3a,75y,331.98h,90.75t/data=!3m4!1e1!3m2!1sNnM9EKHFYfcFdmm6LJUqXg!2e0!6m1!1e1",
         "Note": "",
-        "Type": "Gastronomique",
+        "Type": "Romantique",
         "Latitude": "44.85086039999999",
-        "Longitude": "-0.5822531000000026"
+        "Longitude": "-0.5822531000000026",
+        "Image": "img/opera.jpg"
     },
     {
         "Nom": "L'atelier de Toulouse-Lautrec",
@@ -104,9 +110,10 @@
         "Adresse": "47 rue Porte-Dijeaux",
         "Illustration": "https://www.google.fr/maps/@44.8409218,-0.576764,3a,54y,335.26h,86.4t/data=!3m5!1e1!3m3!1sKAqt6GhcpG5IH4qWW-_frQ!2e0!5s2013-08",
         "Note": "",
-        "Type": "Gastronomique",
+        "Type": "Romantique",
         "Latitude": "44.8410979",
-        "Longitude": "-0.5768262999999934"
+        "Longitude": "-0.5768262999999934",
+        "Image": "img/opera.jpg"
     },
     {
         "Nom": "Le plus vieux magasin de photo de France",
