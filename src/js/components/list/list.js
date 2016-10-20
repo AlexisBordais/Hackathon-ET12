@@ -10,7 +10,7 @@
 
                     var mapOptions = {
                         zoom: 15,
-                        center: new google.maps.LatLng(44.84, -0.58) //,
+                        center: new google.maps.LatLng(44.84, -0.56) //,
                             //mapTypeId: google.maps.MapTypeId
                     }
 
