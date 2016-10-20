@@ -9,5 +9,6 @@
     'app.common',
     'app.home',
     'app.list',
-    'app.tour'
+    'app.tour',
+    'app.footer'
 ]))

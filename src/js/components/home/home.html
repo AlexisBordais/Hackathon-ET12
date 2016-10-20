@@ -1,41 +1,53 @@
-<style>
-    .navbar{
-        display: none !important;
-    }
-</style>
-<div class="bloc-social">
-    	<a href="#"><i class="fa fa-fw fa-facebook"></i></a>
-    	<a href="#"><i class="fa fa-fw fa-twitter"></i></a>
-    	<a href="#"><i class="fa fa-fw fa-instagram"></i></a>
-    </div>
-<div id="fullpage">
-	<div class="section active" id="section0">
-    	<h1 class="logo-intro"><img src="img/logo.png"><span>Trouvez des lieux insolites dans votre ville</span></h1>
-    </div>
-	<div class="section" id="section1">
-    	<h1>Personnalisez vos itinéraires</h1>
-        <div class="bloc-icone">
-        	<img src="img/romantique.png">
-        	<img src="img/famille.png">
-        	<img src="img/culturel.png">
-        	<img src="img/spirituel.png">
-        </div>
-        <p>Choisissez un thème, définissez le temps que vous avez devant vous et suivez l'itinéraire.</p>
-    </div>
-	<div class="section" id="section2">
-    	<h1>Continuez votre itinéraire sur mobile</h1>
-    </div>
-	<div class="section" id="section3">
-    	<h1>Partagez vos trouvailles avec vos amis</h1>
-        	<div class="bloc-icone">
-            	<i class="fa fa-fw fa-star" style="color: #B84345"></i>
-            	<i class="fa fa-fw fa-heart" style="color: #DBC634"></i>
-            </div>
-    </div>
-    <div class="section fp-auto-height" id="section4">
-    	<button ui-sref="app.list" class="commencer">Commencer</button>
-    </div>
-</div>
+<div id="home">
+    <style>
+        .navbar,
+        footer {
+            display: none !important;
+        }
 
-	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+    </style>
+    <div class="bloc-social">
+        <a href="#">
+            <i class="fa fa-fw fa-facebook"></i>
+        </a>
+        <a href="#">
+            <i class="fa fa-fw fa-twitter"></i>
+        </a>
+        <a href="#">
+            <i class="fa fa-fw fa-instagram"></i>
+        </a>
+    </div>
+    <div id="fullpage">
+        <div class="section active" id="section0">
+            <h1 class="logo-intro"><img src="img/logo.png">
+                <span>Trouvez des lieux insolites dans votre ville</span>
+            </h1>
+        </div>
+        <div class="section" id="section1">
+            <h1>Personnalisez vos itinéraires</h1>
+            <div class="bloc-icone">
+                <img src="img/romantique.png">
+                <img src="img/famille.png">
+                <img src="img/culturel.png">
+                <img src="img/spirituel.png">
+            </div>
+            <p>Choisissez un thème, définissez le temps que vous avez devant vous et suivez l'itinéraire.</p>
+        </div>
+        <div class="section" id="section2">
+            <h1>Continuez votre itinéraire sur mobile</h1>
+        </div>
+        <div class="section" id="section3">
+            <h1>Partagez vos trouvailles avec vos amis</h1>
+            <div class="bloc-icone">
+                <i class="fa fa-fw fa-star" style="color: #B84345"></i>
+                <i class="fa fa-fw fa-heart" style="color: #DBC634"></i>
+            </div>
+        </div>
+        <div class="section fp-auto-height" id="section4">
+            <button ui-sref="app.list" class="commencer">Commencer</button>
+        </div>
+    </div>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
     <script type="text/javascript" src="jquery.fullPage.js"></script>
+</div>

@@ -1,9 +1,7 @@
 <header class="Modal__head">
 	<h1>Sélectionnez le thème de votre itinéraire </h1>
 </header>
-
 <div class="Modal__body">
-
 	<div class="container ">
 		<div class="row">
 			<div class="col-md-2 picto icon-romantique" ng-class="{'active':($ctrl.selected == 'Romantique')}" id="romatique" ng-click="$ctrl.selected = 'Romantique'" >
@@ -17,7 +15,6 @@
 
 			<div class="col-md-2 picto icon-culturel" ng-class="{'active':($ctrl.selected == 'Culturel')}" id="culturel" ng-click="$ctrl.selected = 'Culturel'">
 			</div>
-
 		</div>
 	</div>
 	<div>
@@ -29,14 +26,11 @@
 		<h1> Combien de temps avez-vous ?</h1>
 	</div>
 
-
-
 </div>
-
 <div class="Modal__foot">
 	<div class="container ">
 		<div class="row">
-			<a ui-sref="app.modaltourparcours" class="col-xs-offset-4 col-xs-2 btn-default"> Let's Go </a>
+			<a ng-click="$ctrl.hide=!$ctrl.hide" class="col-xs-offset-4 col-xs-2 btn-default"> Let's Go </a>
 		</div>
 	</div>
 </div>
