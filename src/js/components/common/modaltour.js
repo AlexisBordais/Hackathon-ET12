@@ -24,6 +24,8 @@
                 $('.open-modal').show()
                 $('html, body').css('overflow', 'auto');
             });
+
+            this.modalparcours = false
         }
     })
 

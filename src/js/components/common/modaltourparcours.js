@@ -1,8 +1,12 @@
 ((app) => {
     'use strict'
     app.component("modaltourparcours", {
+        bindings: {
+            hide: '='
+        },
         templateUrl: 'js/components/common/modaltourparcours.html',
         controller: function($http, $scope) {
+            this.modalparcours = true
             $('.open-modal').click(function(e) {
                 e.preventDefault();
                 if (!$('.Modal').hasClass('Modal--fullscreen')) {
@@ -36,7 +40,7 @@
                     var imagePath = "http://m.schuepfen.ch/icons/helveticons/black/60/Pin-location.png";
 
                     for (let i = 0; i < $scope.data.length; i++) {
-                        if ($scope.data[i].Type === 'Romantique'){
+                        if ($scope.data[i].Type === 'Romantique') {
                             var data = $scope.data[i]
 
                             var marker = new google.maps.Marker({
@@ -64,6 +68,8 @@
                     }
 
                 })
+
+
         }
     })
 })(angular.module('app.common'))
