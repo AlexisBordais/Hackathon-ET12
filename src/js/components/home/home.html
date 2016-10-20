@@ -5,6 +5,78 @@
             display: none !important;
         }
 
+        #section0 svg {
+            pointer-events: none;
+        }
+
+        #section0 .demo-drawings figcaption {
+            margin: 0 auto;
+            max-width: 40em;
+            width: 95%;
+            text-align: center;
+        }
+        #section0 .demo-drawings figure:first-child figcaption {
+            margin-top: 8em;
+        }
+
+        #section0 .demo-drawings figcaption h2 {
+            font-weight: 300;
+            font-size: 3em;
+            margin-bottom: 0.2em;
+        }
+
+        #section0 .demo-drawings figcaption p {
+            font-size: 1.3em;
+        }
+
+        #section0 .drawings {
+            position: relative;
+            max-height: 600px;
+        }
+
+        #section0 .illustration {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            max-height: 100%;
+            max-width: 100%;
+            opacity: 0;
+            -webkit-transform: translateX(-50%) translateY(-50%);
+            transform: translateX(-50%) translateY(-50%);
+        }
+
+        #section0 .show {
+            opacity: 1;
+        }
+
+        #section0 .hide {
+            opacity: 0;
+        }
+
+        #section0 .illustration,
+        #section0 .line-drawing {
+            -webkit-transition: opacity 0.5s;
+            transition: opacity 0.5s;
+        }
+
+        #section0 .line-drawing path {
+            fill: none;
+            stroke: white;
+            stroke-width: 3;
+        }
+
+        #section0 path.line-round {
+            stroke-linecap: round;
+        }
+
+        #section0 path.stroke-medium {
+            stroke-width: 2;
+        }
+
+        #section0 path.stroke-thin {
+            stroke-width: 1;
+        }
+
     </style>
     <div class="bloc-social">
         <a href="#">
@@ -19,7 +91,7 @@
     </div>
     <div id="fullpage">
         <div class="section active" id="section0">
-            <!--h1 class="logo-intro"><img src="img/logo.png"><span>Trouvez des lieux insolites dans votre ville</span></h1-->
+            <!-- h1 class="logo-intro"><img src="img/logo.png"><span>Trouvez des lieux insolites dans votre ville</span></h1 -->
             <div class="logo-intro">
                 <div id="main" class="main">
                     <figure>
@@ -39,6 +111,7 @@
                                         stroke-width: 10;
                                         stroke-miterlimit: 10;
                                     }
+
                                 </style>
                                 <g>
                                     <path

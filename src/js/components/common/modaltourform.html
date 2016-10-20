@@ -2,21 +2,20 @@
 	<h1>Sélectionnez le thème de votre itinéraire </h1>
 </header>
 <div class="Modal__body">
-	<div class="container ">
-		<div class="row">
-			<div class="col-md-2 picto icon-romantique" ng-class="{'active':($ctrl.selected == 'Romantique')}" id="romatique" ng-click="$ctrl.selected = 'Romantique'" >
-			</div>
+	<div class="col-md-12">
+		<div class="col-md-3 picto icon-romantique" ng-class="{'active':($ctrl.selected == 'Romantique')}" id="romatique" ng-click="$ctrl.selected = 'Romantique'" >
+		</div>
 
-			<div class="col-md-2 picto icon-famille" ng-class="{'active':($ctrl.selected == 'Famille')}" id="famille" ng-click="$ctrl.selected = 'Famille'" >
-			</div>
+		<div class="col-md-3 picto icon-famille" ng-class="{'active':($ctrl.selected == 'Famille')}" id="famille" ng-click="$ctrl.selected = 'Famille'" >
+		</div>
 
-			<div class="col-md-2 picto icon-spirituel" ng-class="{'active':($ctrl.selected == 'Spirituel')}" id="spirituel" ng-click="$ctrl.selected = 'Spirituel'" >
-			</div>
+		<div class="col-md-3 picto icon-spirituel" ng-class="{'active':($ctrl.selected == 'Spirituel')}" id="spirituel" ng-click="$ctrl.selected = 'Spirituel'" >
+		</div>
 
-			<div class="col-md-2 picto icon-culturel" ng-class="{'active':($ctrl.selected == 'Culturel')}" id="culturel" ng-click="$ctrl.selected = 'Culturel'">
-			</div>
+		<div class="col-md-3 picto icon-culturel" ng-class="{'active':($ctrl.selected == 'Culturel')}" id="culturel" ng-click="$ctrl.selected = 'Culturel'">
 		</div>
 	</div>
+
 	<div>
 
 		<h2> {{ $ctrl.selected }} </h2>
@@ -28,9 +27,8 @@
 
 </div>
 <div class="Modal__foot">
-	<div class="container ">
-		<div class="row">
-			<a ng-click="$ctrl.hide=!$ctrl.hide" class="col-xs-offset-4 col-xs-2 btn-default"> Let's Go </a>
-		</div>
+	<div class="col-md-12">
+	  <a ng-click="$ctrl.hide=!$ctrl.hide" class="pull-right col-xs-4 btn-default"> Let's Go </a>
 	</div>
+
 </div>
