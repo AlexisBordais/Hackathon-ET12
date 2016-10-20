@@ -3,6 +3,7 @@
 .navbar-brand {
   background-image: url(/img/logopetit.png);
   width: 135px;
+  margin : 10px !important;
 }
 
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
@@ -28,9 +29,22 @@
 }
 .navbar {
     background-color: #a94442;
-    border-color: #080808;
+    border : none !important;
 }
 
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+  background-color: white !important;
+  color : #61935a !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color : #393734 !important;
+  font-size : 2em;
+  text-transform: uppercase;
+  margin-top : 8px !important;
+  margin-right: 8px !important;
+  font-family: arial;
+}
 
 @media (min-width: 768px) {
   /* Navbar positioning foo */
