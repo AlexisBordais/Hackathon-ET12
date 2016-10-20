@@ -5,6 +5,8 @@
     </header>
     <i class="Modal__prev" ng-click="$ctrl.hide=!$ctrl.hide"><</i>
 
+  <i class="fa fa-print" aria-hidden="true" data-toggle="modal" data-target="print"></i>
+
     <div class="Modal__body" ng-repeat="dataromantique in data | filter: dataromantique: dataromantique.Type='Romantique'">
         <div class="row">
             <div class="col-xs-12">
