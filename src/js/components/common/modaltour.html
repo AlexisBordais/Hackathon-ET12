@@ -3,17 +3,18 @@
 </div>
 
 
-
 <div class="Modal Modal--fullscreen">
 
-		<i class="Modal__close">&times;</i>
+	<i class="Modal__close">&times;</i>
 
-<div ng-if="!$ctrl.modalparcours">
-	<modaltourform hide="$ctrl.modalparcours"></modaltourform>
-</div>
-<div id="modalparcours" ng-if="$ctrl.modalparcours">
-	<modaltourparcours></modaltourparcours>
-</div>
+	<div ng-if="!$ctrl.modalparcours">
 
+		<modaltourform hide="$ctrl.modalparcours"></modaltourform>
+
+	</div>
+	
+	<div id="modalparcours" ng-if="$ctrl.modalparcours">
+		<modaltourparcours></modaltourparcours>
+	</div>
 
 </div>
