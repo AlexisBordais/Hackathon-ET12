@@ -48,15 +48,22 @@
                             position: new google.maps.LatLng(data.Latitude, data.Longitude),
 
                             icon: imagePath,
-                            title: data.Nom
+                            title: data.Nom,
+                            adress: data.Adresse,
+                            desc: data.Description
                         })
                         marker.content = '<div class="infoWindowContent">' + data.Description + '</div>';
 
                         var infoWindow = new google.maps.InfoWindow();
 
                         google.maps.event.addListener(marker, 'click', function() {
-                            infoWindow.setContent('<h3>' + this.title + '</h3>' + this.content);
-                            infoWindow.open(this.map, this.marker);
+                            $('.Modal').removeClass('Modal--is-open');
+                            $('html, body').find('.Modal__overlay').fadeOut(400, function() {
+                                    $(this).remove();
+                                })
+                            $('#full').append('<div class="imgfullmarker"><div class="container"><div class="row"><div class="col-xs-12"><h1>'+ this.title +'</h1><br><h2>'+this.adress+'</h2></div></div></div></div>')
+                                // infoWindow.setContent('<h3>' + this.title + '</h3>' + this.content);
+                                // infoWindow.open(this.map, this.marker);
                         })
 
 

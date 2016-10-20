@@ -35,8 +35,12 @@
                         var infoWindow = new google.maps.InfoWindow();
 
                         google.maps.event.addListener(marker, 'click', function() {
-                            infoWindow.setContent('<h3>' + this.title + '</h3>' + this.content);
-                            infoWindow.open(this.map, this.marker);
+                          if ($('.Modal').hasClass('Modal--fullscreen')) {
+                              $('.Modal').after('<div class="Modal__overlay">');
+                              $('html, body').find('.Modal__overlay').fadeIn(400);
+                          }
+                            // infoWindow.setContent('<h3>' + this.title + '</h3>' + this.content);
+                            // infoWindow.open(this.map, this.marker);
                         })
 
                     }
