@@ -1,22 +1,30 @@
 <div class="navbar-wrapper">
     <div class="container">
-        <header class="navbar navbar-inverse navbar-fixed-top">
+        <header class="navbar navbar-inverse navbar-fixed-top" style="background: white;">
             <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <div class="row">
+                    <div class="navbar-header col-lg-3">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                       <span class="sr-only">Toggle navigation</span>
                       <span class="icon-bar"></span>
                       <span class="icon-bar"></span>
                       <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Project name</a>
-                </div>
-                <div id="navbar" class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav">
-                        <li class="active"><a ui-sref="app.home">Accueil</a></li>
-                        <li><a ui-sref="app.list">List</a></li>
-                        <li><a ui-sref="app.tour">Tour</a></li>
-                    </ul>
+                        <a class="navbar-brand" href="#"></a>
+                    </div>
+                    <form class="navbar-form col-lg-9" style="text-align: center;width: 50%;">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="ex: Bordeaux">
+                        </div>
+                        <button type="submit" class="btn btn-default">Recherche</button>
+                    </form>
+                    <div id="navbar" class="navbar-collapse collapse pull-right">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a ui-sref="app.home">Accueil</a></li>
+                            <li><a ui-sref="app.list">List</a></li>
+                            <li><a ui-sref="app.tour">Tour</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </header>
