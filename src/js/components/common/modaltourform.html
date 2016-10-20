@@ -6,28 +6,30 @@
 
 	<div class="container ">
 		<div class="row">
-			<div class="col-md-2 picto icon-romantique" ng-click="$ctrl.theme = Romantique">
+			<div class="col-md-2 picto icon-romantique" ng-class="{'active':($ctrl.selected == 'Romantique')}" id="romatique" ng-click="$ctrl.selected = 'Romantique'" >
 			</div>
 
-			<div class="col-md-2 picto icon-famille">
+			<div class="col-md-2 picto icon-famille" ng-class="{'active':($ctrl.selected == 'Famille')}" id="famille" ng-click="$ctrl.selected = 'Famille'" >
 			</div>
 
-			<div class="col-md-2 picto icon-spirituel">
+			<div class="col-md-2 picto icon-spirituel" ng-class="{'active':($ctrl.selected == 'Spirituel')}" id="spirituel" ng-click="$ctrl.selected = 'Spirituel'" >
 			</div>
 
-			<div class="col-md-2 picto icon-culturel">
+			<div class="col-md-2 picto icon-culturel" ng-class="{'active':($ctrl.selected == 'Culturel')}" id="culturel" ng-click="$ctrl.selected = 'Culturel'">
 			</div>
 
 		</div>
 	</div>
 	<div>
-		<h2> {{$ctrl.theme}} </h2>
-	</div>
 
+		<h2> {{ $ctrl.selected }} </h2>
+	</div>
 
 	<div>
 		<h1> Combien de temps avez-vous ?</h1>
 	</div>
+
+
 
 </div>
 

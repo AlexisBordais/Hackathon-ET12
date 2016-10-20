@@ -25,6 +25,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 .icon-culturel:before {
   content: "\e900";
 }
@@ -42,7 +43,7 @@
 }
 
 
-.icon-culturel:active, .icon-famille:active,  .icon-spirituel:active,  .icon-romantique:active {
+.icon-culturel.active, .icon-famille.active,  .icon-spirituel.active,  .icon-romantique.active {
   color: white;
 }
 
