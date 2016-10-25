@@ -18,6 +18,10 @@ Pour aller plus loin :
 - Possibilité d'ajout de commentaire sur chaque fiche.   
 - Retrouver son itinéraire sur un application mobile.   
 
+### Preview URL
+
+Aperçu du site sur Surge [ici](http://freakyway.surge.sh/#/)
+
 ### Prerequisites
 * [NodeJS](https://nodejs.org/en/)
 * [Brunch](http://brunch.io/)
